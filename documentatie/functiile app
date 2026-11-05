@@ -1,0 +1,29 @@
+-Explicația și funcționalitățile aplicației – TripGenerator
+
+-Scopul aplicației
+TripGenerator este o aplicație mobilă care ajută utilizatorii să descopere și să planifice călătorii în funcție de preferințele personale.
+Utilizatorul selectează bugetul disponibil, perioada călătoriei și activitățile dorite. Pe baza acestor criterii, aplicația propune mai multe 
+variante de călătorie care pot fi analizate și comparate.
+
+-Funcționalitățile principale
+1. "Autentificare și înregistrare" -utilizatorul poate simula conectarea la un cont, crearea unui cont nou și recuperarea parole
+2. "Selectarea bugetului" –utilizatorul poate alege o sumă prestabilită sau introduce manual bugetul disponibil.
+3. "Alegerea perioadei" –selectarea datei de plecare și a datei de întoarcere.
+4. "Selectarea activităților" –alegerea preferințelor precum cultură, gastronomie, natură, plajă, aventură și relaxare.
+5. "Generarea ofertelor" –afișarea unor variante demonstrative de călătorie în funcție de preferințele introduse.
+6. "Vizualizarea detaliilor" –prezentarea destinației, costurilor estimate, perioadei și activităților incluse.
+7. "Compararea ofertelor" –compararea a două variante de călătorie pentru identificarea celei mai potrivite.
+8. "Favorite" –secțiune destinată salvării și vizualizării ofertelor preferate.
+9. "Istoric" –secțiune pentru consultarea căutărilor și a filtrelor utilizate anterior.
+10. "Navigarea între pagini" –accesarea rapidă a secțiunilor prin intermediul meniului și al butoanelor interactive.
+
+-Tehnologii utilizate
+-"Figma" –proiectarea interfeței grafice.
+-"Figma Make" –dezvoltarea prototipului interactiv.
+
+
+-Concluzie
+TripGenerator simplifică procesul de descoperire și comparare a destinațiilor 
+turistice, oferind o interfață modernă și ușor de utilizat.Aplicația reprezintă 
+un prototip educațional. Ofertele sunt demonstrative, iar funcționalitățile nu 
+presupun integrarea unui sistem real de rezervări sau autentificare.
