@@ -1,0 +1,10 @@
+Descrierea interfeței – TripGenerator
+
+TripGenerator este o aplicație mobilă destinată planificării călătoriilor, realizată cu ajutorul Figma și Figma Make.
+Interfața aplicației are un design modern, de tip "Dark Mode", utilizând culorile negru închis (#0B0F14), albastru royal (#306CDE) și alb (#FFFFFF).
+Aplicația conține "11 ecrane": Welcome, Log in, Create Account, Password Recovery, Home, Generate, Offers, Offer Details, Compare, Favorites și History.
+Pagina principală oferă acces rapid la funcțiile aplicației. Ecranul Generate permite selectarea bugetului, perioadei și activităților preferate, iar ofertele 
+sunt afișate sub formă de carduri cu informații despre destinații.
+Navigarea este realizată prin butoane și un meniu inferior care permite trecerea între secțiunile principale ale aplicației.
+Interfața a fost concepută pentru a fi simplă, intuitivă și ușor de utilizat.
+Link Figma Make:
