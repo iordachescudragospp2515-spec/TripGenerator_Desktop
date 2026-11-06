@@ -14,12 +14,13 @@ Iordăchescu Dragoș = documentație și testare
 - `README.md` – prezentarea generală a proiectului
 
 ## 4. Prototipul Figma
-Link către prototip:
+Link către prototip în Figma: https://www.figma.com/proto/ovjVzKm52r28JMMpNISoTk/prototype?t=AXJyiJASzd2tEN9D-1
+Link către prototip în FigmaMake: https://www.figma.com/make/B8RyB7HP4Kp1KFnY8tyPpq/Functional-prototype?t=AXJyiJASzd2tEN9D-20&fullscreen=1
 
 ## 5. Colaborarea pe GitHub
 Fiecare membru al echipei contribuie la realizarea proiectului prin commit-uri și pull requests. 
 Modificările sunt verificate și integrate în repository.
 
 ## 6. Tehnologii utilizate
-- Figma;Figma Make – proiectarea interfeței
+- Figma și Figma Make – proiectarea interfeței
 - GitHub – documentare și colaborare
