@@ -1,11 +1,11 @@
 # TripGenerator_Desktop
 
 ## 1. Scopul aplicației
-Scopul proiectului este proiectarea unei aplicații Desktop cu o interfață intuitivă și ușor de utilizat. Aplicația este concepută pentru a permite utilizatorului să acceseze și să gestioneze funcțiile disponibile prin intermediul unei interfețe grafice.
+TripGenerator este o aplicație desktop care generează automat oferte de călătorie în funcție de bugetul, perioada și preferințele utilizatorului. Pe baza filtrelor selectate sau completate manual, aplicația propune mai multe destinații potrivite, permițând compararea ofertelor și alegerea celei mai convenabile. Scopul aplicației este de a economisi timp și de a simplifica planificarea călătoriilor.
 
 ## 2. Membrii echipei
-Strochi Emma-Nica = proiectarea interfeței și organizarea proiectului
-Iordăchescu Dragoș = documentație și testare
+Strochi Emma-Nica - coordonator de proiect, programator front-end 
+Iordăchescu Dragoș - designer UI/UX, programator back-end, tester 
 
 ## 3. Structura proiectului
 - `capturi/` – imagini ale interfeței aplicației
@@ -24,3 +24,10 @@ Modificările sunt verificate și integrate în repository.
 ## 6. Tehnologii utilizate
 - Figma și Figma Make – proiectarea interfeței
 - GitHub – documentare și colaborare
+## 7. Organizarea proiectului în Trello
+Am utilizat Trello pentru organizarea sarcinilor într-un plan Gantt, distribuirea responsabilităților între membrii echipei și urmărirea progresului proiectului TripGenerator.
+Link Trello: https://trello.com/b/ZphG3UWA/desktop
+
+## 8. Prezentarea proiectului în Google Slides
+Prezentarea finală în Google Slides va include scopul aplicației, funcționalitățile și activitatea realizată în Figma, Trello și GitHub.
+Link Google Slides: [adaugă linkul prezentării]
