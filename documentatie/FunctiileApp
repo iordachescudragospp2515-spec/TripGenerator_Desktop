@@ -1,1 +1,12 @@
+  Funcționalitățile de bază
+Aplicația TripGenerator va permite utilizatorului:
+- Selectarea bugetului – alegerea bugetului disponibil pentru călătorie sau introducerea manuală a unei sume.
+- Selectarea perioadei – alegerea datei plecării și a datei întoarcerii.
+- Alegerea activităților preferate – selectarea activităților dorite din variantele propuse de aplicație sau introducerea manuală a preferințelor.
+- Generarea ofertelor – generarea automată a mai multor variante de călătorie în funcție de filtrele selectate.
+- Vizualizarea ofertelor – afișarea destinației, perioadei, prețului și activităților incluse în fiecare ofertă.
+- Căutarea ofertelor – căutarea sau filtrarea ofertelor generate după anumite criterii.
+- Compararea ofertelor – compararea mai multor variante pentru a găsi cea mai potrivită călătorie.
+- Salvarea ofertelor – posibilitatea de a salva ofertele preferate.
+- Regenerarea ofertelor – modificarea filtrelor și generarea unor noi variante de călătorie.
 
