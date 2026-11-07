@@ -14,7 +14,7 @@ Iordăchescu Dragoș - designer UI/UX, programator back-end, tester
 - `README.md` – prezentarea generală a proiectului
 
 ## 4. Prototipul Figma
-Link către prototip în Figma: https://www.figma.com/proto/ovjVzKm52r28JMMpNISoTk/prototype?t=AXJyiJASzd2tEN9D-1
+Link către prototip în Figma: https://www.figma.com/design/ovjVzKm52r28JMMpNISoTk/prototype?t=QlYQNGM0skguiO7p-1
 Link către prototip în FigmaMake: https://www.figma.com/make/B8RyB7HP4Kp1KFnY8tyPpq/Functional-prototype?t=AXJyiJASzd2tEN9D-20&fullscreen=1
 
 ## 5. Colaborarea pe GitHub
